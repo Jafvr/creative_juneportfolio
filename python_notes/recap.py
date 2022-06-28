@@ -100,50 +100,91 @@
 # num=10
 # num2=20
 
-# if num > num2:
-#     print(f"{"num"} is bigger")
-#     elif num2 > num:
-#         print(f"{num2} is bigger)
+# # if num > num2:
+# #     print(f"{"num"} is bigger")
+# #     elif num2 > num:
+# #         print(f"{num2} is bigger)
 
 
 
-# place = "MCR"
-# wearther = "Cloudy"
+# # place = "MCR"
+# # wearther = "Cloudy"
 
-# if place == "MCR" and weather == "sunny":
-#     print("check again")
-# elif place == "MCR" and weather == "rain":
-#     print("what is isn't raining")
-# else:
-#     print:("obvs")
-
-
-# day = "saturday"
-
-# if day == "saturday"or day == "sunday":
-#     print("it's the weekend!")
-# else:
-#     print("when's the weekend?")
-
-# day = "monday"
-# bank_hol = True
-
-# if day== "saturday" or day=="sunday" or bank_hol:
-#     print("A day off")
-# else:
-#     print("off to innovate we go")
+# # if place == "MCR" and weather == "sunny":
+# #     print("check again")
+# # elif place == "MCR" and weather == "rain":
+# #     print("what is isn't raining")
+# # else:
+# #     print:("obvs")
 
 
-# def light_switch():
-#     print("switching the lights")
+# # day = "saturday"
+
+# # if day == "saturday"or day == "sunday":
+# #     print("it's the weekend!")
+# # else:
+# #     print("when's the weekend?")
+
+# # day = "monday"
+# # bank_hol = True
+
+# # if day== "saturday" or day=="sunday" or bank_hol:
+# #     print("A day off")
+# # else:
+# #     print("off to innovate we go")
 
 
-# def cash_with():
-#     print("you have withdrawn {amount} from {accum}")
+# # def light_switch():
+# #     print("switching the lights")
 
-fav_song = [
-    "Ram Riddlz- Hey Mr Ramrod",
-    "Drake- Let's call it off",
-    "Abba- SOS"
-]
-print(fav_song)
+
+# # def cash_with():
+# #     print("you have withdrawn {amount} from {accum}")
+
+# fav_song = [
+#     "Ram Riddlz- Hey Mr Ramrod",
+#     "Drake- Let's call it off",
+#     "Abba- SOS"
+# ]
+# print(fav_song)
+
+# for i in range(10):
+#     print(i)
+
+# for i in range(2,10,2):
+#     print(i)
+
+# #     for i in range(10,-1,-1):
+# #         print(i)
+
+# # welcome = "Welcome to Code Nation"
+# # print(welcome)
+
+# # message = "Welcome to Code Nation"
+# # messageLength = len(message) %2
+
+# # def CheckLength():
+# #     print(messageLength)
+# #     if messageLength == 0:
+# #         print("Message is even")
+# #     else:
+# #         print("Message = odd")
+# # CheckLength()
+
+# alphabet = [ "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"]
+
+# print(alphabet)
+
+# for i in alphabet:
+#     print(i)
+
+# answer = input("type a number to see the corresponding letter")
+
+# print(alphabet[2])
+# answer -=1
+# print(alphabet[answer])
+
+
+# ------------------------------------------------------------
+
+int(5.4)
