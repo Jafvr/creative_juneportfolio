@@ -1,0 +1,62 @@
+/* *{
+    background-image: url('img/Rose.jpg');
+} */
+
+
+body{
+    background-color: rgb(255, 248, 241);
+}
+
+p{
+    color: rgb(41, 11, 11);
+    font-size: 20px;
+}
+
+h1, h2 {
+    color: rgb(19, 63, 48);
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2{
+    font-size: 20px;
+}
+
+.centretext{
+    text-align: center;
+
+}
+
+#maintitle{
+    color: rgb(111, 31, 187);
+    text-decoration: line-through;
+}
+
+nav a{
+    color: deeppink;
+    text-align: center;
+    font-size: 20px;
+}
+
+a:hover{
+    color: gold;
+}
+
+img:hover{
+    border: 10px solid orange
+}
+
+footer{ border: 10px cornflowerblue solid
+}
+
+.content{
+    width: 40vw;
+    margin-left: auto;
+    overflow: scroll;
+    display: block;
+    border: 10px;
+    border-color: aqua;
+    padding: 10px;
+}
