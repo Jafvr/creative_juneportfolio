@@ -2,6 +2,15 @@
     background-image: url('img/Rose.jpg');
 } */
 
+@font-face {
+    font-family: Jafar;
+    src: url(Best\ Valentina\ TTF.ttf);
+}
+
+*{
+    box-sizing: ;
+    font-family: 'Jafar';
+}
 
 body{
     background-color: rgb(255, 248, 241);
@@ -58,5 +67,16 @@ footer{ border: 10px cornflowerblue solid
     display: block;
     border: 10px;
     border-color: aqua;
-    padding: 10px;
+    padding: 10px; 
+    /* creates spaces */
+    margin-right: 30%;
+    float: left;
+    /* float wraps text */
+
+}
+
+img{
+    width: 30%;
+    float: lefts;
+    
 }
