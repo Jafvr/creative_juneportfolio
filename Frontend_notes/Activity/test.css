@@ -1,0 +1,28 @@
+body{
+    background-color: lightblue;
+    color: black;
+}
+
+
+.mobile, .desktop{
+    display: none;
+}
+
+
+@media (orientation: landscape){
+    .desktop{
+        display: inline-block;
+    }
+}
+
+@media (orientation: portrait){
+    .mobile{
+        display: inline-block;
+    }
+    body{
+        background-color: black;
+        color: aquamarine;
+    
+    }
+}
+
